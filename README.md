@@ -1,8 +1,5 @@
 # Introduction
-Hi there, I'm shivesh, currently a sophomore at DYP college. And I love learning new things. I'm interested in Sketching, Coding, Sports & absolute lovemaking.
-
-
-<p align="right"> <img src="https://cloud-r6srnnsyf.vercel.app/0tenor.gif" / width=200>
+Hi there, I'm shivesh <p align="right"> <img src="https://cloud-r6srnnsyf.vercel.app/0tenor.gif" / width=200>
   
 - 🔭 I’m currently working on ...Python Libraries
 - 🌱 I’m currently learning ...Computer Vision
