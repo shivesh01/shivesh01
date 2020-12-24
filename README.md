@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://cloud-r6srnnsyf.vercel.app/0tenor.gif" width=200>
+<p align="centre"> <img src="https://cloud-r6srnnsyf.vercel.app/0tenor.gif" width=400>
   
   - 🔭 I’m currently working on ...Python Libraries
 - 🌱 I’m currently learning ...Computer Vision
@@ -8,11 +8,3 @@
 - 📫 How to reach me: ...[Twitter](https://twitter.com/Shivesh_1 "What are you waiting for")
 - 😄 Pronouns: ... He/his
 - ⚡ Fun fact: ... I'm a introvert.
-
-
-My GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shivesh01&show_icons=true&theme=white" alt="shivesh01" />
-
-
-
