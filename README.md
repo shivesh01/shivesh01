@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Twitter](https://twitter.com/Shivesh_1 "What are you waiting for")
 - 😄 Pronouns: ... He/his
 - ⚡ Fun fact: ... I'm a introvert.
+
+![Shivesh Github stats](https://github-readme-stats.vercel.app/api?username=shivesh01&show_icons=true&theme=vue)
+
