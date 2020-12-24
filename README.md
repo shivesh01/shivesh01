@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on ...Python Libraries
 - 🌱 I’m currently learning ...Computer Vision
@@ -9,5 +9,10 @@
 - 😄 Pronouns: ... He/his
 - ⚡ Fun fact: ... I'm a introvert.
 
-![Shivesh Github stats](https://github-readme-stats.vercel.app/api?username=shivesh01&show_icons=true&theme=vue)
+
+My GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shivesh01&show_icons=true&theme=gotham" alt="shivesh01" />
+
+
 
