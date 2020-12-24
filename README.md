@@ -1,7 +1,6 @@
-# Introduction
-Hi there, I'm shivesh <p align="right"> <img src="https://cloud-r6srnnsyf.vercel.app/0tenor.gif" / width=200>
+<p align="right"> <img src="https://cloud-r6srnnsyf.vercel.app/0tenor.gif" width=200>
   
-- 🔭 I’m currently working on ...Python Libraries
+  - 🔭 I’m currently working on ...Python Libraries
 - 🌱 I’m currently learning ...Computer Vision
 - 👯 I’m looking to collaborate on ...Open Source
 - 🤔 I’m looking for help with ...Python Projects
