@@ -14,7 +14,7 @@
 
 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shivesh01&show_icons=true&theme=gotham" alt="shivesh01" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shivesh01&show_icons=true&theme=white" alt="shivesh01" />
 
 
 
