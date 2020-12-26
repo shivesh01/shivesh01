@@ -7,4 +7,4 @@
 - 💬 Ask me about ...Soft Skills
 - 📫 How to reach me: ...[Twitter](https://twitter.com/Shivesh_1 "What are you waiting for")
 - 😄 Pronouns: ... He/his
-- ⚡ Fun fact: ... I'm a introvert.
+- ⚡ Fun fact: ... I'm an introvert.
