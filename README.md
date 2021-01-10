@@ -1,4 +1,4 @@
-<p align="centre"> <img src="https://cloud-r6srnnsyf.vercel.app/0tenor.gif" width=400>
+![](https://media.giphy.com/media/3o7TKrbXUnCJkzAWu4/giphy.gif)
   
   - 🔭 I’m currently working on ...Python Libraries
 - 🌱 I’m currently learning ...Computer Vision
