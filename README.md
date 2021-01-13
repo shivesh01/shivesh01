@@ -8,5 +8,3 @@
 - 📫 How to reach me: ...[Twitter](https://twitter.com/Shivesh_1 "What are you waiting for")
 - 😄 Pronouns: ... He/his
 - ⚡ Fun fact: ... I'm an introvert.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivesh01&theme=chartreuse-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
