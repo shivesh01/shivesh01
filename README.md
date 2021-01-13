@@ -1,6 +1,4 @@
 ![views count](https://komarev.com/ghpvc/?username=shivesh01&color=brightgreen)
-\
-![](eaw.jpg)
   
 - 🔭 I’m currently working on ...Python Libraries
 - 🌱 I’m currently learning ...Computer Vision
