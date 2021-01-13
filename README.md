@@ -1,8 +1,8 @@
 ![views count](https://komarev.com/ghpvc/?username=shivesh01&color=brightgreen)
 \
-![Hello ](https://media.giphy.com/media/3o85xlpmZ9qSJe3a92/giphy.gif)
+![](eaw.jpg)
   
-  - 🔭 I’m currently working on ...Python Libraries
+- 🔭 I’m currently working on ...Python Libraries
 - 🌱 I’m currently learning ...Computer Vision
 - 👯 I’m looking to collaborate on ...Open Source
 - 🤔 I’m looking for help with ...ReactJs
