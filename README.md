@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hey!%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hey!%20&height=300&fontSize=100&textBg=true&animation=fadein)
   
 - 🔭 I’m currently working on ...Python Libraries
 - 🌱 I’m currently learning ...Computer Vision
