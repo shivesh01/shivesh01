@@ -12,3 +12,4 @@
 - ⚡ Fun fact: ... I'm an introvert.
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivesh01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
