@@ -9,7 +9,7 @@
 - 💬 Ask me about ...Soft Skills
 - 📫 How to reach me: ...[Twitter](https://twitter.com/Shivesh_1 "What are you waiting for")
 - 😄 Pronouns: ... He/his
-- ⚡ Fun fact: ... I'm an introvert.
+- ⚡ Fun fact: ... I like solving mystery challenge.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivesh01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
