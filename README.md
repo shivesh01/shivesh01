@@ -1,5 +1,7 @@
 Hi there, I'm Shivesh Kumar Singh 👋
 
+![banner image](https://github.com/shivesh01/shivesh01/blob/main/asset/banner/banner.png)
+
 I'm a passionate software engineer eager to contribute to cutting-edge projects and develop my skills in the tech industry. With a Bachelor's degree in Computer Science and experience in various programming languages, I am confident in my ability to excel in any development role.
 
 🔭 I’m currently working on Academic Project
