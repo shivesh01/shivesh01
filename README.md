@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there, I'm Shivesh Kumar Singh 👋
 
-<!--
-**shivesh01/shivesh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer eager to contribute to cutting-edge projects and develop my skills in the tech industry. With a Bachelor's degree in Computer Science and experience in various programming languages, I am confident in my ability to excel in any development role.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Academic Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on expanding my knowledge in Cloud by building a personal project using the AWS Cloud .
+
+🌱 I’m currently learning System Design
+
+I am continuously learning and exploring new technologies to improve my skills. Currently, I am focusing on mastering Cloud techonology.
+
+💬 Ask me about
+
+My experience in software development methodologies such as Agile and Scrum
+My proficiency in programming languages such as Java, and C++. 
+My experience in developing RESTful APIs. 
+📫 How to reach me
+
+Feel free to reach out to me on LinkedIn or check out my portfolio to learn more about my work.
+
+Let's connect and collaborate on innovative projects!
